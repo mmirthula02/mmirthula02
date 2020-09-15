@@ -4,7 +4,7 @@
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='120' height='120'></a>
 
-
+[![Gmail Badge](https://img.shields.io/badge/-mmirthula02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmirthula02@gmail.com)](mailto:mmirthula02@gmail.com)
 
 
 
