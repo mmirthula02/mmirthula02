@@ -1,6 +1,6 @@
 ### Hola , I'm Mirthula 👋
 
-<a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+<a href="https://github.com/sponsors/M0nica"><img align="left" width="180" height="180" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 '![coffee code](https://user-images.githubusercontent.com/51138087/93663687-87a63100-fa1e-11ea-841c-88dbd3e76d02.gif)
 
