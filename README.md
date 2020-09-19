@@ -2,7 +2,7 @@
 
 <a href="https://github.com/sponsors/M0nica"><img align="left" width="220" height="220" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
-'![coffee code](https://user-images.githubusercontent.com/51138087/93663687-87a63100-fa1e-11ea-841c-88dbd3e76d02.gif)
+![coffee code](https://user-images.githubusercontent.com/51138087/93663687-87a63100-fa1e-11ea-841c-88dbd3e76d02.gif)
 
 [![Gmail Badge](https://img.shields.io/badge/-mmirthula02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmirthula02@gmail.com)](mailto:mmirthula02@gmail.com)
 
@@ -12,6 +12,8 @@
 - 🌱 I’m currently learning Data structure and algorithms in c++
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I start working only when my coffee does!!
+
+![coffee code](https://user-images.githubusercontent.com/51138087/93663687-87a63100-fa1e-11ea-841c-88dbd3e76d02.gif)
 
 
 
