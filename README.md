@@ -51,3 +51,10 @@
   <a href="https://medium.com/@mmirthula02" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="kushalbhanot" height="60" width="45" /></a> &nbsp;&nbsp;
 </p>
 
+
+### Check out my coding skills
+<p align="left">
+  <a href="https://www.hackerrank.com/mmirthula02" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kushalbhanot" height="60" width="45" /></a> &nbsp;&nbsp;
+</p>
+
+
