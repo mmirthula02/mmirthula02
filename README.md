@@ -39,7 +39,7 @@ A programmer and a Machine learning enthusiast
 - Jupyternotebooks
 - NetBeans
 - MySQL
-- Java
+- Html 
 - c++
 - Scikit learn
 - Pycharm
@@ -48,8 +48,8 @@ A programmer and a Machine learning enthusiast
 ### Contact me
 
 <p align="left">
-  <a href="https://linkedin.com/in/mirthula-m-77b1461a4" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushalbhanot" height="60" width="45" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/mmirthula02" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="60" width="45" /></a> &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/mirthula-m-77b1461a4" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mirthula" height="60" width="45" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/mmirthula02" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Mirthula" height="60" width="45" /></a> &nbsp;&nbsp;
 
 </p>
 
@@ -63,7 +63,7 @@ A programmer and a Machine learning enthusiast
 
 ### Check out my coding skills
 <p align="left">
-  <a href="https://www.hackerrank.com/mmirthula02" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kushalbhanot" height="60" width="45" /></a> &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/mmirthula02" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Mirthula" height="60" width="45" /></a> &nbsp;&nbsp;
 </p>
 
 
