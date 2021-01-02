@@ -13,7 +13,7 @@ A programmer and a Machine learning enthusiast
 
 
 - 🔭 I’m currently working on Machine learning
-- 🌱 I’m currently learning Data structure and algorithms in c++
+- 🌱 I’m currently learning front end web development
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I start working only when my coffee does!!
 
