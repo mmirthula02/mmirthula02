@@ -43,6 +43,7 @@ A programmer and a Machine learning enthusiast
 - c++
 - Scikit learn
 - Pycharm
+- CSS
 
 
 ### Contact me
