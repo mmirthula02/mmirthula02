@@ -12,8 +12,8 @@ A programmer and a Machine learning enthusiast
 
 
 
-- 🔭 I’m currently working on Machine learning
-- 🌱 I’m currently learning front end web development
+- 🔭 I’m currently working on Machine learning and web development
+- 🌱 I’m currently learning Data structures and algorithms
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I start working only when my coffee does!!
 
@@ -44,6 +44,8 @@ A programmer and a Machine learning enthusiast
 - Scikit learn
 - Pycharm
 - CSS
+- JavaScript
+- JQuery
 
 
 ### Contact me
