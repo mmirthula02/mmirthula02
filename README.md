@@ -37,7 +37,7 @@ A programmer and a Machine learning enthusiast
 
 - Python
 - Jupyternotebooks
-- NetBeans
+- Tableau
 - MySQL
 - Html 
 - c++
